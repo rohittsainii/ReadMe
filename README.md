@@ -16,14 +16,13 @@ I'm a passionate learner and developer, currently exploring the exciting world o
 ### 🛠️ My Tech Stack
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,javascript,bootstrap,git,github,vscode" />
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,java,python,git,github,vscode" />
   </a>
 </p>
 
 ### 🤝 Connect with Me
 <p align="left">
-<a href="https://linkedin.com/in/your-linkedin-username" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="your-linkedin-username" height="30" width="40" /></a>
-<a href="https://twitter.com/your-twitter-username" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="your-twitter-username" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/rohittsainii/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rohittsainii" height="30" width="40" /></a>
 </p>
 
 ### 📊 My GitHub Stats
