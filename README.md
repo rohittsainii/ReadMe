@@ -16,7 +16,7 @@ I'm a passionate learner and developer, currently exploring the exciting world o
 ### 🛠️ My Tech Stack
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,javascript,java,python,git,github,vscode" />
+    <img src="https://skillicons.dev/icons?i=C,html,css,javascript,SQL,MongoDB,java,python,git,github,vscode" />
   </a>
 </p>
 
