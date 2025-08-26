@@ -8,7 +8,7 @@ I'm a passionate learner and developer, currently exploring the exciting world o
 - 👯 I’m looking to collaborate on **open-source or beginner-friendly projects**.
 - 🤔 I’m looking for help with **advanced JavaScript concepts and frameworks**.
 - 💬 Ask me about **HTML, CSS, and the basics of Git/GitHub**.
-- 📫 How to reach me: **rohit.saini.dev@email.com**
+- 📫 How to reach me: **rohittsainii75@gmail.com**
 - 😄 Pronouns: He/Him
 
 <br/>
@@ -16,7 +16,7 @@ I'm a passionate learner and developer, currently exploring the exciting world o
 ### 🛠️ My Tech Stack
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,html,css,javascript,python,node.js,mysql,mongodb,git,github,vscode" />
+    <img src="https://skillicons.dev/icons?i=c,html,css,javascript,python,mysql,mongodb,git,github,vscode" />
   </a>
 </p>
 
