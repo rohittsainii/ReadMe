@@ -16,7 +16,7 @@ I'm a passionate learner and developer, currently exploring the exciting world o
 ### 🛠️ My Tech Stack
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,html,css,javascript,MySQL,mongoDB,java,python,git,github,vscode" />
+    <img src="https://skillicons.dev/icons?i=c,html,css,javascript,mysql,mongodb,java,python,git,github,vscode" />
   </a>
 </p>
 
@@ -26,6 +26,6 @@ I'm a passionate learner and developer, currently exploring the exciting world o
 </p>
 
 ### 📊 My GitHub Stats
-![Rohit's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR-GITHUB-USERNAME&show_icons=true&theme=radical)
+![Rohit's GitHub stats](https://github-readme-stats.vercel.app/api?username=rohittsainii&show_icons=true&theme=radical)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-GITHUB-USERNAME&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rohittsainii&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
